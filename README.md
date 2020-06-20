@@ -1,1 +1,1 @@
-# module2
+# http://module2.github.io
